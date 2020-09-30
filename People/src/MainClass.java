@@ -8,9 +8,9 @@ public class MainClass {
 	 * The main method.
 	 */
 	public static void main(String[] args) {
-		Student s1 = new Student("Alex",1998,"UTCN20424");
+		Student s1 = new Student("Mihai",1998,"UTCN20424");
 		Student s2 = new Student();
-		Staff x = new Staff("Andrei",1990,"209");
+		Staff x = new Staff("Raul",1990,"209");
 		
 		System.out.println(s2.getName());
 		
