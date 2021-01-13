@@ -1,0 +1,4 @@
+masina,1000
+caiet,20
+carte,30
+mouse,15
